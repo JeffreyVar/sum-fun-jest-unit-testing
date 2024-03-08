@@ -1,0 +1,18 @@
+{
+  "name": "sum-fun-unit-tests",
+  "version": "1.0.0",
+  "description": "A simple project for testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "marc-mccarthy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
