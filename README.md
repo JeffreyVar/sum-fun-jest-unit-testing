@@ -11,8 +11,6 @@ Let's start by discussing the fundamentals of software testing. In this section,
 - Other Test Tools
 - Integration Testing (If time permits)
 
-- testing a change in the readme for a commit
-
 ## Test Driven Development - TDD
 
 Test Driven Development (TDD) is a software development approach where tests are written before the code. This methodology encourages thinking about the code in advance, leading to improved code quality.
