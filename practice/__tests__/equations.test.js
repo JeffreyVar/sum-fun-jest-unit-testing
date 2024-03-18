@@ -1,5 +1,9 @@
 // import the function from the file you want to test
 
+// const addNumbers = require('../modules/equations');
+
+const { addNumbers } = require('../modules/equations')
+
 // describe the function you are testing
   // write a test that should add two positive numbers together
     // create your sample inputs
