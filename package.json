@@ -4,7 +4,7 @@
   "description": "A simple project for testing with Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo Running Tests... && jest"
   },
   "keywords": [
     "jest",
